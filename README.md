@@ -1,34 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+An ECommerce React website. Application includes modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and integration with Stripe to cover real payments.
 
-## Getting Started
+Used libs and services: 
+- React
+- React Context API (State Management)
+- Next.js
+- Stripe (Payments Management)
+- Sanity (CMS)
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![mkb1](https://user-images.githubusercontent.com/115811638/216773760-76cb210e-e47b-4a31-889c-3347a22950da.png)
+![mkb2](https://user-images.githubusercontent.com/115811638/216773765-b3e85824-fff5-46a5-9d85-642beed3ca8f.png)
+![phone1](https://user-images.githubusercontent.com/115811638/216773768-30a29344-4357-4805-bfb6-3ff89cf91b92.png)
+![phone2](https://user-images.githubusercontent.com/115811638/216773772-65c386b5-6cd0-44e1-b71f-a600c2e25a21.png)
+![phone3](https://user-images.githubusercontent.com/115811638/216773775-8fdf8665-c36f-4fa0-a326-b037dff802e3.png)
